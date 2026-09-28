@@ -6,9 +6,7 @@ A simple task management web application that allows users to create an account 
 
 ## 🔗 Links
 
-- **Deployed Application URL:** [https://your-project.vercel.app](https://your-project.vercel.app) *(Update after deployment)*
-- **YouTube Demo URL:** [https://www.youtube.com/watch?v=your-demo-id](https://www.youtube.com/watch?v=your-demo-id) *(Update with your 3–5 min video)*
-
+- **Deployed Application URL:** View SimpleTasks on Netlify (https://chic-pasca-2b0942.netlify.app *(Update after deployment)*
 ---
 
 ## 📖 About
@@ -193,31 +191,36 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 🚀 Deployment (Vercel)
+## 🚀 Deployment (Netlify)
 
-Vercel is created by the team behind Next.js and provides instant, free 1-click deployment with official Supabase support:
+This project is deployed using Netlify.
 
-1. Push your code to your GitHub repository (see instructions below).
-2. Go to [vercel.com](https://vercel.com) and log in with your GitHub account.
-3. Click **"Add New..."** > **"Project"**.
-4. Import your `taskmanager` repository.
-5. In the **Environment Variables** section, add your two Supabase keys:
-   - `NEXT_PUBLIC_SUPABASE_URL` = *(Your Supabase project URL)*
-   - `NEXT_PUBLIC_SUPABASE_ANON_KEY` = *(Your Supabase project anon key)*
-6. Click **"Deploy"**.
-7. In ~1 minute, your app will be live with a URL like `https://taskmanager-xyz.vercel.app`.
+### Deploying the Project
 
----
+1. Push the project to a GitHub repository.
+2. Go to Netlify and log in with your GitHub account.
+3. Select **Add new project** → **Import an existing project**.
+4. Select GitHub and choose the `taskmanagerr` repository.
+5. Configure the build settings:
+   - **Build command:** `npm run build`
+   - **Publish directory:** `out`
+6. Add the following environment variables in Netlify:
+   - `NEXT_PUBLIC_SUPABASE_URL` = Your Supabase project URL
+   - `NEXT_PUBLIC_SUPABASE_ANON_KEY` = Your Supabase anon/publishable key
+7. Deploy the project.
+
+### Live Application
+
+[View SimpleTasks on Netlify](https://chic-pasca-2b0942.netlify.app)
 
 ## 📹 Demo Video
 
 - **Video URL:** Simple Task, Full Stack Task Management App - Watch Video
-
 <div>
-    <a href="https://www.loom.com/share/07bf9ef801ca4f8bab1298c1bf689911">
-      <p>Simple Task, Full Stack Task Management App - Watch Video</p>
+    <a href="https://www.loom.com/share/993d646ca78d4395ab358fe941b4c296">
+      <p>Task Manager Full Stack App with Next.js - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/share/07bf9ef801ca4f8bab1298c1bf689911">
-      <img style="max-width:300px;" src="https://www.loom.com/v1/videos/07bf9ef801ca4f8bab1298c1bf689911/thumbnail.gif">
+    <a href="https://www.loom.com/share/993d646ca78d4395ab358fe941b4c296">
+      <img style="max-width:300px;" src="https://www.loom.com/v1/videos/993d646ca78d4395ab358fe941b4c296/thumbnail.gif">
     </a>
   </div>
