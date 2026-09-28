@@ -211,7 +211,9 @@ Vercel is created by the team behind Next.js and provides instant, free 1-click 
 
 ## 📹 Demo Video
 
-- **Video URL:** [https://www.youtube.com/watch?v=your-demo-id](https://www.youtube.com/watch?v=your-demo-id)
+- **Video URL:** Simple Task, Full Stack Task Management App - Watch Video
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/07bf9ef801ca4f8bab1298c1bf689911" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 **Suggested 3–5 Minute Presentation Outline:**
 1. **Introduction (30s):** Project name, purpose (personal task manager), and tech stack (Next.js, TypeScript, Supabase for auth & database, Vercel for hosting).
