@@ -42,7 +42,7 @@ A simple task management web application that allows users to create an account 
 - **Language:** [TypeScript](https://www.typescriptlang.org/)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 - **Backend & Database:** [Supabase](https://supabase.com/) (PostgreSQL Database & Supabase Auth)
-- **Deployment:** [Vercel](https://vercel.com/) (Recommended for Next.js)
+- **Deployment:** Netlify
 
 ---
 
@@ -166,8 +166,8 @@ An example template is provided in [.env.example](.env.example). Never commit `.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/taskmanager.git
-cd taskmanager
+git clone https://github.com/justinzhar/taskmanagerr.git
+cd taskmanagerr
 ```
 
 ### 2. Install dependencies
