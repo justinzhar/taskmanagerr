@@ -211,16 +211,13 @@ Vercel is created by the team behind Next.js and provides instant, free 1-click 
 
 ## 📹 Demo Video
 
-- **Video URL:** [https://www.youtube.com/watch?v=your-demo-id](https://www.youtube.com/watch?v=your-demo-id)
+- **Video URL:** Simple Task, Full Stack Task Management App - Watch Video
 
-**Suggested 3–5 Minute Presentation Outline:**
-1. **Introduction (30s):** Project name, purpose (personal task manager), and tech stack (Next.js, TypeScript, Supabase for auth & database, Vercel for hosting).
-2. **Architecture & Project Structure (60s):** Show folder structure (`app`, `components`, `supabase/schema.sql`).
-3. **Database & Security (45s):** Explain `tasks` table schema and how Row Level Security (RLS) protects user tasks.
-4. **Live Demo (90s):**
-   - Register a new user and log in.
-   - Create a task with title, description, and due date.
-   - Filter/view tasks, toggle complete, and edit a task.
-   - Delete a task (showing confirmation prompt).
-   - Log out and log in with a different account to demonstrate that User B cannot see User A's tasks.
-5. **Conclusion & Deployment (30s):** Show live application and wrap up.
+<div>
+    <a href="https://www.loom.com/share/07bf9ef801ca4f8bab1298c1bf689911">
+      <p>Simple Task, Full Stack Task Management App - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/07bf9ef801ca4f8bab1298c1bf689911">
+      <img style="max-width:300px;" src="https://www.loom.com/v1/videos/07bf9ef801ca4f8bab1298c1bf689911/thumbnail.gif">
+    </a>
+  </div>
